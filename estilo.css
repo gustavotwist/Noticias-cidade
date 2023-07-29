@@ -59,7 +59,7 @@ ul {
     line-height: 2.1em;
     text-decoration: none;
     color: #fff;
-    background: url(../projeto-noticias-cidade/imagens2/divisor.png) no-repeat left center;
+    background: url(./imagens2/divisor.png) no-repeat left center;
 }
 
 #topo ul .primeiro a {
@@ -116,7 +116,7 @@ body.fotos #navegacao a#fotos {
 .caixa {
     margin: 10px 0;
     padding: 5px;
-    background: #f3f3f3 url(../projeto-noticias-cidade/imagens2/fundo-caixa.png);
+    background: #f3f3f3 url(./imagens2/fundo-caixa.png);
 }
 
 h2 {
@@ -143,7 +143,7 @@ h2 {
 }
 
 #lateral ul a:hover {
-    background: #f9f9f9 url(../projeto-noticias-cidade/imagens2/marcador.png) no-repeat left center;
+    background: #f9f9f9 url(./imagens2/marcador.png) no-repeat left center;
     padding-left: 20px;
     color: #a1a1a1;
 }
