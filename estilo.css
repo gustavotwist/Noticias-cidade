@@ -11,7 +11,6 @@ body {
 #container {
     width: 750px;
     margin: 0 auto;
-    
 }
 
 #topo {
@@ -90,8 +89,6 @@ body.fotos #navegacao a#fotos {
     float: left;
     margin: 0 0 20px -750px;
 }
-
-
 
 #primario {
     width: 270px;
